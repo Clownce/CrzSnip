@@ -1,0 +1,1 @@
+A screenshoot tool by Qt5.

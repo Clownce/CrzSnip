@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LineStyle/1.ico</file>
+        <file>LineStyle/2.ico</file>
+        <file>LineStyle/3.ico</file>
+        <file>LineStyle/4.ico</file>
+        <file>LineStyle/5.ico</file>
+        <file>CrzSnip.png</file>
+        <file>AppIcon/about.png</file>
+        <file>AppIcon/quit.png</file>
+        <file>AppIcon/setting.png</file>
+        <file>AppIcon/cancel.png</file>
+        <file>AppIcon/ellipse.png</file>
+        <file>AppIcon/line.png</file>
+        <file>AppIcon/rect.png</file>
+        <file>AppIcon/save.png</file>
+        <file>AppIcon/saveas.png</file>
+    </qresource>
+</RCC>
